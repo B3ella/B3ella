@@ -2,7 +2,7 @@
 
 Ela/Dela
 
-O melhor lugar para saber mais sobre mim é no meu [site](https://isabellaoliveira.dev)!
+O melhor lugar para saber mais sobre mim é no meu [site](https://www.isabellaoliveira.dev)!
 
 Atualmente estou trabalhando no Site da [UJL](https://www.instagram.com/ujliberdade/) junto com [Agentes.Dev](https://www.linkedin.com/company/agentesdev/)
 
