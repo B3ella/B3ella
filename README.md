@@ -4,7 +4,6 @@ Ela/Dela
 
 O melhor lugar para saber mais sobre mim é no meu [site](https://www.isabellaoliveira.dev)!
 
-Estudando sobre arquitetura orientada a eventos e outras arquiteturas focadas em dados
+Obcecada com melhorar meu workflow, sou do tipo que passa mais tempo configurando atalhos do que programando
 
-Tentando ser 1% melhor a cada dia!
-
+Daquelas psicopatas que usa Nixos, NeoVim e I3
