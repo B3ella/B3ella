@@ -5,6 +5,9 @@ She/her
 Ela/Dela
 
 ---
+React, Next, Node, Python, Rust
+
+---
 Full-stack dev trying to bring event-driven solutions for SMEs
 
 Desenvolvedora full-stack tentando trazer soluções orientadas à eventos pra pequenas e médias empresas
