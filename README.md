@@ -1,9 +1,11 @@
 ### Isabella Oliveira
 
+She/her
 Ela/Dela
 
-O melhor lugar para saber mais sobre mim é no meu [site](https://www.isabellaoliveira.dev)!
+Full-stack dev trying to bring event-driven solutions for SMEs / Desenvolvedora full-stack tentando trazer soluções orientadas à eventos pra pequenas e médias empresas
 
-Obcecada com melhorar meu workflow, sou do tipo que passa mais tempo configurando atalhos do que programando
+Currently building [groundhog](https://github.com/b3ella/groundhog) a customizable daily note templater / Atualmente construíndo [groundhog](https://github.com/b3ella/groundhog) um templater pra notas diárias customizáveis
 
-Daquelas psicopatas que usa Nixos, NeoVim e I3
+You can check more of my work on my site [site](https://www.isabellaoliveira.dev/en) /
+Você pode ver mais do meu trabalho no meu [site](https://www.isabellaoliveira.dev)!
